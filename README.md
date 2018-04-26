@@ -1,4 +1,4 @@
-# xfind_bside
+# vue website common model
 
 > A Vue.js project
 
